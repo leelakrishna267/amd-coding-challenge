@@ -11,6 +11,14 @@ This application demonstrates:
 It is built using **Spring Boot** and standard Java cryptography libraries.
 
 ---
+##  Technologies used
+
+Java 17
+Spring Boot (4.x)
+Maven
+Java Security (RSA, SHA-256)
+
+---
 
 ## ⚙️ Features
 
