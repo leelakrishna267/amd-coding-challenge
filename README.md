@@ -60,7 +60,7 @@ It is built using **Spring Boot** and standard Java cryptography libraries.
 ## 📁 Project Structure
 
 ```
-crypto-app/
+amd-coding-challenge/
 │
 ├── keys/
 │   ├── public.key
@@ -71,7 +71,7 @@ crypto-app/
 │   ├── encrypted.dat
 │   └── decrypted.txt
 │
-├── src/main/java/com/example/crypto/
+├── src/main/java/com/amd/challenge/
 │   ├── controller/
 │   ├── service/
 │
